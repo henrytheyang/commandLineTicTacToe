@@ -31,5 +31,6 @@ class Game {
   }
 }
 
+// The below is for testing in console
 let friendlyMatch = new Game();
 friendlyMatch.displayBoard();
